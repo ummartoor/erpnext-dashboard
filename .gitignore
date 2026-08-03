@@ -23,3 +23,6 @@ node_modules/
 # Banking SPA
 erpnext/public/banking
 erpnext/www/banking.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
